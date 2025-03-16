@@ -19,7 +19,7 @@
 To run the project locally, follow these steps:
 
 ```bash
-git clone https://github.com/Manideep-25/eva.git  
+git clone https://github.com/Manideep-25/EVA.git  
 cd eva  
 npm install  
 npm start  
